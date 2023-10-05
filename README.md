@@ -9,8 +9,11 @@
 
 <table>
   <a href="https://github.com/leehxd">
- <img src="https://img.icons8.com/color/2x/kotlin.png" width="120" alt="KOTLIN">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+   <img src="https://img.icons8.com/color/2x/kotlin.png" width="120" alt="KOTLIN">
+   <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="PYTHON">
+   <img src="https://img.icons8.com/color/2x/php.png" width="120" alt="PHP">
+   <img src="https://img.icons8.com/color/2x/mysql.png" width="120" alt="MySQL">
+   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
