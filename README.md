@@ -1,5 +1,10 @@
 #Hello, fellow coder! May your bugs be minimal, and your lines of code always efficient.
 <!--
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=13dev&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauez&layout=compact&theme=graywhite&hide_border=true" width="313" />
+</div>
+
  <div style="display: inline_block">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fauez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauez&layout=compact&langs_count=6&theme=tokyonight"/>
