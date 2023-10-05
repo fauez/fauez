@@ -1,5 +1,9 @@
 #Hello, fellow coder! May your bugs be minimal, and your lines of code always efficient.
 <!--
+ <div style="display: inline_block">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fauez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauez&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
