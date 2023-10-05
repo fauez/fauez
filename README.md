@@ -4,7 +4,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fauez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauez&layout=compact&theme=graywhite&hide_border=true" width="313" />-->
 </div>
+<br>
+<br>
 
+<table>
+  <a href="https://github.com/leehxd">
+ <img src="https://img.icons8.com/color/2x/kotlin.png" width="120" alt="KOTLIN">
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+
+</table>
 <!--
 
  <div style="display: inline_block">
