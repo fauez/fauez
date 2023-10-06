@@ -1,9 +1,12 @@
 #Hello, fellow coder! May your bugs be minimal, and your lines of code always efficient.<br><br>
 #Olá, sou Fauez, um entusiasta da programação com experiência em Kotlin, PHP, HTML5, JavaScript e CSS. Estou sempre ansioso para aprender novas linguagens e tecnologias. Se você procura alguém comprometido em criar soluções inovadoras, estou à disposição. Vamos codificar juntos!
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fauez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauez&layout=compact&theme=graywhite&hide_border=true" width="313" />-->
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauez&layout=compact&langs_count=6&theme=tokyonight" width="313"/>
 </div>
+-->
 <br>
 <br>
 
