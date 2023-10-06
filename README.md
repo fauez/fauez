@@ -12,14 +12,14 @@
 
 <table>
   <a href="https://github.com/leehxd">
-   <img src="https://img.icons8.com/color/2x/kotlin.png" width="80" alt="KOTLIN">
-   <img src="https://img.icons8.com/color/2x/python.png" width="80" alt="PYTHON">
-   <img src="https://img.icons8.com/color/2x/php.png" width="80" alt="PHP">
-   <img src="https://img.icons8.com/color/2x/mysql.png" width="80" alt="MySQL">
-   <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="80" alt="Bootstrap">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="80" alt="JavaScript">
+   <img src="https://img.icons8.com/color/2x/kotlin.png" width="100" alt="KOTLIN">
+   <img src="https://img.icons8.com/color/2x/python.png" width="100" alt="PYTHON">
+   <img src="https://img.icons8.com/color/2x/php.png" width="100" alt="PHP">
+   <img src="https://img.icons8.com/color/2x/mysql.png" width="100" alt="MySQL">
+   <img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3">
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap">
+  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="100" alt="JavaScript">
 
 </table>
 <!--
