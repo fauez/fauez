@@ -1,5 +1,5 @@
 #Hello, fellow coder! May your bugs be minimal, and your lines of code always efficient.<br><br>
-#Olá, sou Fauez, um entusiasta da programação com experiência em Kotlin, PHP, HTML5, JavaScript e CSS. Estou sempre ansioso para aprender novas linguagens e tecnologias. Se você procura alguém comprometido em criar soluções inovadoras, estou à disposição. Vamos codificar juntos!
+#Olá, sou Fauez, um estudante da programação com experiência em Kotlin, PHP, HTML5, JavaScript e CSS. Estou sempre ansioso para aprender novas linguagens e tecnologias. Se você procura alguém comprometido em criar soluções inovadoras, estou à disposição. Vamos codificar juntos!
 <!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fauez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
